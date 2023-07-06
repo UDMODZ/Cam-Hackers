@@ -1,4 +1,4 @@
-<img src="<img src="https://github.com/UDMODZ/Cam-Hackers/blob/master/udmodz.png>/blob/master/camfoto2.png">
+<img src="<img src="https://github.com/UDMODZ/Cam-Hackers/blob/master/udmodz.png">
 
 HIJACK Cameras
 
